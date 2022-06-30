@@ -9,6 +9,7 @@ export function Header() {
         src={igniteLogo}
         alt="Dois triângulos verdes sobrepostos apontando para o canto superior direito"
       />
+      <strong>Ignite Feed</strong>
     </header>
   )
 }
